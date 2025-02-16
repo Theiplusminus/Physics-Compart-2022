@@ -1,0 +1,161 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper contains 12 questions. All questions are compulsory.
+(ii) This question paper is divided into three sections	Section A, B, and C.
+(iii) Section A	Questions no. 1 to 3 are of 2 marks each.
+(iv) Section B	Questions no. 4 to 11 are of 3 marks each.
+(v) Section C	Question no. 12 is a Case Study-Based Question of 5 marks.
+(vi) There is no overall choice in the question paper. However, internal choice has been provided in some of the questions. Attempt any one of the alternatives in such questions.
+(vii) Use of log tables is permitted, if necessary, but use of calculator is not
+permitted.
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+1. (a)	(i)	Long distance radio broadcasts use short-wave bands. Why ?	1
+(ii) The experimental demonstration of electromagnetic waves is possible only in the low frequency region (the radio wave region). Explain.	1
+OR
+(b) (i)	Draw a diagram showing a linearly polarized electromagnetic wave, propagating in the z-direction depicting E and B .	1
+(ii) The wavelength of an electromagnetic wave is 10 10 m. Identify the wave and mention its one use.	1
+2. (a)  In Geiger-Marsden experiment, the distance of closest approach is considerably larger than the sum of the radii of the gold nucleus and the -particle. Explain.
+(b) The total energy of hydrogen atom in a state is  3·4 eV. What are
+the kinetic and potential energies of the electron in this state ?    1+1
+
+3. (a)  A p-type semiconductor is electrically neutral although it has holes as the majority carriers. Justify.
+(b) In photon picture of light, what determines the intensity of light ?  1+1
+
+SECTION B
+
+4. (a)	Draw a ray diagram to show the formation of an image at the least distance of distinct vision, by a compound microscope. Hence, obtain an expression for its angular magnification.	3
+OR
+(b) Consider a convex spherical surface of radius of curvature R, separating two media of refractive indices n1 and n2 (> n1). A point object is placed at a distance u in front of the surface in medium of
+refractive index n1. Its real image is formed at a distance v. Obtain
+a relation between u and v in terms of n1, n2 and R.	3
+
+5. (a)		experimental set-up, the intensity of the light waves from two coherent sources are in the ratio of 9 : 1. Find the ratio of intensity of bright and dark fringes in the interference
+pattern.	2
+(b) Monochromatic light of wavelength 600 nm is incident from air on
+
+a water surface. If the refractive index of water is
+
+4 , then find the
+3
+
+wavelength of the refracted light.	1
+6. (a)	In	single	slit	diffraction,	explain	why	the	maxima	at
+
+1
+n	2	a
+
+becomes weaker and weaker as n increases. State
+
+two important differences between interference and diffraction pattern.	3
+OR
+(b)  A plane wavefront is incident on a surface separating two media of refractive indices n1 and n2 (> n1). With the help of a suitable diagram, explain its propagation from the rarer to denser medium.
+	 3
+
+7. (a)  A proton and an  particle are moving with the same speed. Which one of them has greater value of de Broglie wavelength associated
+with it ? Justify your answer.	1
+(b) Lights of wavelengths 430 nm, 450 nm and 660 nm are incident on a metal surface whose threshold wavelength is 600 nm. In which case/cases will photoemission take place and why ? Calculate the
+threshold frequency of the metal surface.	2
+
+8. (a)	How did de Broglie hypothesis provide an explanati
+second postulate for quantisation of orbital angular momentum of
+the orbiting electron in hydrogen atom ? Discuss.	2
+(b) Identify the transition of electron in Bohr model which gives rise to
+(i) the maximum, and (ii) the minimum wavelength in Balmer series of hydrogen spectrum.	1
+
+9. (a)	Determine from the given data, whether the following reaction is exothermic or endothermic :	2
+1	3	2
+1	1	1	1
+
+Atomic masses :	m 2
+3
+1
+1
+1
+
+= 2·014102 u
+
+= 3·016049 u
+
+= 1·007825 u
+
+(b) What is the ratio of the nuclear density of the gold isotope
+107
+
+197
+79 Au
+
+and the silver isotope
+
+47 Ag .	1
+
+10. Draw V	I characteristics of a p-n junction diode. Answer the following giving reasons :	3
+(a) Why is the reverse bias current almost independent of applied voltage up to breakdown voltage ?
+(b) Why	does	the	reverse	current	show	a	sudden	increase	at breakdown voltage ?
+11. (a)	Explain the formation of a p-n junction.
+(b) Can we take one slab of p-type semiconductor and physically join it
+to another n-type semiconductor to get a p-n junction ? Explain.	3
+SECTION C
+12. A lens is a portion of a transparent medium bounded by two surfaces and one of these surfaces is essentially spherical. It is used to converge or diverge the light incident on it. Power of a lens is the measure of its ability to converge or diverge the light incident on it. Power of a lens depends on the refractive index of the material of lens with respect to the surrounding medium and the radii of curvature of its two surfaces.
+(a) The power of a convex lens
+(i) increases when the lens is dipped in water.
+(ii) increases when the wavelength of incident light decreases.
+(iii) decreases when another convex lens is placed in contact with it.
+(iv) increases when the lens is cut into two identical plano-convex lenses.
+
+(b) The focal length of a concave lens is 40 cm. The power of the lens is :
+(i) 0·025 D
+(ii) 2·5 D
+(iii) 0·025 D
+(iv) 2·5 D
+
+(c) The focal length of a concave lens ( g = 1·5) in air is 20 cm. What should be the refractive index of the surrounding medium so that the lens behaves as a converging lens of focal length 60 cm ?
+(i) 1·4
+(ii) 1·8
+(iii) 1·7
+(iv) 1·2
+
+(d) Beams of red light, blue light, yellow light and violet light are incident on a convex lens, one-by-one. Which one of them converges nearest to the lens ?
+(i) Blue light
+(ii) Violet light
+(iii) Red light
+(iv) Yellow light
+
+(e) A beam of light coming parallel to the principal axis of a convex lens L1 of focal length 15 cm is incident on it. Another convex lens L2 of focal length 25 cm is placed coaxially at a distance d from L1. For the final image to be formed at infinity, the value of d should be :
+(i) 10 cm
+(ii) 15 cm
+(iii) 25 cm
+(iv) 40 cm	5 1=5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
